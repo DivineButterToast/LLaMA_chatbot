@@ -4,6 +4,8 @@
 THIS CODE IS FUCKING AWFUL. DO NOT EXPECT IT TO WORK OUT OF THE BOX. I'M GOING
 TO ATTEMPT TO IMPROVE IT OVER THE NEXT WHILE, BUT FOR NOW, IT'S SHIT.
 
+**I forked this for testing, and any edits I make for now will likely be f****n terrible** -*toast*
+
 IF YOU CAN GET IT TO WORK, YOU DESERVE A COOKIE.
 CHEERS.
 
